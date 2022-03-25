@@ -1,0 +1,35 @@
+html {
+  font-size: 10px;
+  font-family: "Playfair Display", serif;
+  background-color: #052512;
+}
+h1 {
+  font-size: 60px;
+  text-align: center;
+  margin: 0;
+  padding: 20px 0;
+  color: #0a532d;
+  text-shadow: 3px 3px 1px black;
+}
+
+p,
+li {
+  font-size: 16px;
+  line-height: 2;
+  letter-spacing: 1px;
+}
+body {
+  width: 600px;
+  margin: 0 auto;
+  background-color: #4bb26e;
+  padding: 0 20px 20px 20px;
+  border: 5px solid #0a532d;
+}
+img {
+  display: block;
+  margin: 0 auto;
+}
+a {
+  font-size: 16px;
+  color: #0a532d;
+}
